@@ -218,22 +218,22 @@ def start(update: Update, context: CallbackContext):
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username)),
                          InlineKeyboardButton(
-                             text=" 🔔 Updates ",
-                             url="https://t.me/SenkuUpdates")
+                             text="MY.MASTER👑",
+                             url="https://t.me/MrVasuz")
                      ],
                      [
                         InlineKeyboardButton(
                             text=" ✨ Help ",
-                            url="https://t.me/SenkuRobot?start=help"),
+                            url="https://t.me/Explorerobot?start=help"),
                          InlineKeyboardButton(
-                            text=" ⚡️ Get Started ",
-                             url="https://t.me/SenkuUpdates/4")        
+                            text="Support Group 🤕",
+                             url="https://t.me/ExploreMoviez")        
                        
                      ],
                      [
                         InlineKeyboardButton(
-                             text=" ❤️ Source Code ",
-                             url="https://github.com/FtSasaki/SenkuRobot")
+                             text="Any Doubts 😜",
+                             url="https://www.google.com")
                     
                     ]
                    ]
