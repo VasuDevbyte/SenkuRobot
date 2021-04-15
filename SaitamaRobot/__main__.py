@@ -73,14 +73,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
+Hi {}, My name is {}! 
+I am an Anime Themed Group Management Bot.
+Build by weebs for weebs, I specialize in managing [*ExploreMoviez*](https://t.me/ExploreMoviez).
 You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
-*Main* commands available [:](https://telegra.ph/file/418fe04d27f1fb02788e3.png)
+*Main* commands available [:](https://telegra.ph/file/7360bf118f537230c8c6d.jpg)
 
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
@@ -92,7 +92,7 @@ HELP_STRINGS = """
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/e4b3dc747eb56dca07797.png"
+SAITAMA_IMG = "https://telegra.ph/file/afa97ad96318daa47e4ce.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
